@@ -1,0 +1,26 @@
+{
+  "name": "nemid-cli",
+  "version": "1.0.0",
+  "description": "###",
+  "main": "index.mjs",
+  "dependencies": {
+    "clipboardy": "^2.1.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Om\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliborgogic/nemid-cli.git"
+  },
+  "keywords": [
+    "nemid"
+  ],
+  "author": "Dalibor Gogic <mail@daliborgogic.com> (https://daliborgogic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daliborgogic/nemid-cli/issues"
+  },
+  "homepage": "https://github.com/daliborgogic/nemid-cli#readme"
+}
