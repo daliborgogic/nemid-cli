@@ -4,7 +4,7 @@
   "description": "###",
   "main": "index.mjs",
   "dependencies": {
-    "clipboardy": "^2.1.0"
+    "clipboardy": "^3.0.0"
   },
   "type": "module",
   "scripts": {
